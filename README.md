@@ -1,8 +1,6 @@
 # SEO Backlink Automation Bot
 
-This project automates the discovery and collection of backlink opportunities across the web to support SEO and link-building workflows. It crawls target sites, extracts backlink sources and metrics, and delivers structured link data that teams can use to inform outreach and competitive analysis.
-
-Designed for SEO professionals and automation engineers, the SEO Backlink Automation Bot converts manual backlink research into repeatable, scalable results.
+This project automates the discovery and collection of backlink opportunities across the web to support SEO and link-building workflows. It crawls target sites, extracts backlink sources and metrics, and delivers structured link data that teams can use to inform outreach and competitive analysis. Designed for SEO professionals and automation engineers, the SEO Backlink Automation Bot converts manual backlink research into repeatable, scalable results.
 
 <p align="center">
   <a href="https://Appilot.app" target="_blank"><img src="https://github.com/Instagram-Automations/Footer-test/blob/main/appilot-baner.png" alt="Appilot Banner" width="100%"></a>
